@@ -1,7 +1,7 @@
 
-### Busca Minas en PSeInt o pseudocodigo - Minesweeper game
+# Busca Minas en PSeInt o pseudocodigo - Minesweeper game
 
-# Reglas
+### Reglas
 
 El juego consiste en despejar todas las casillas de una pantalla que no oculten una mina.
 
@@ -9,18 +9,18 @@ Algunas casillas tienen un número, este número indica las minas que son en tod
 
 Si se descubre una casilla con una mina se pierde la partida.
 
-# Lenguaje
+### Lenguaje
 
 El juego lo desarrolle en un software libre educativo multiplataforma llamado PSeInt
 
-# Conexión base de datos
+### Conexión base de datos
 PSeInt no permite conexión a base de datos
 
-## Requerimientos
+### Requerimientos
 Requiere descarga de Pseint, lo puedes hacer desde: https://pseint.sourceforge.net/
 Requiere que el sistema esté configurado en modo estricto para la correcta ejecución del juego, lo puedes hacer dando click en Configurar - opciones del lenguaje - y seleccionar modo estricto
 
-## Paso a paso
+### Paso a paso
 En el siguiente video puedes ver como jugarlo:  https://www.youtube.com/watch?v=nmpVbKVSkWU&t=1s
 
 
